@@ -1,6 +1,6 @@
 ## How to setup Tailwind CSS
 
-Step 1: Run the following commands
+Step 1: Run the following commands 
 
 ``` 
 npm install -D tailwindcss
